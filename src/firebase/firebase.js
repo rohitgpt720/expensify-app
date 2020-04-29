@@ -14,9 +14,9 @@
   firebase.initializeApp(firebaseConfig);
 
   const database = firebase.database();
-  
+  const googleAuthProvider = new firebase.auth.GoogleAuthProvider();
 
-  export { firebase, database as default};
+  export { firebase, googleAuthProvider ,database as default};
   // database.ref().on('value', (snapshot) => {
   //   const val = snapshot.val();
   //   console.log(`${val.name} is a ${val.job.title} at ${val.job.company}.`);
