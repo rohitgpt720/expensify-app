@@ -1,68 +1,25 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Expensify: Effortless Expense Tracking Made Simple
 
-## Available Scripts
+Introducing Expensify, your reliable manual expense tracker web app that puts you in control of your finances with ease. No frills, no fuss – just a straightforward and intuitive platform designed for individuals who prefer a hands-on approach to expense management.
 
-In the project directory, you can run:
+##Key Features:
 
-### `npm start`
+###Intuitive Manual Entry:
+Take charge of your expenses with simple and straightforward manual entry. Expensify allows you to input your spending details easily, ensuring every transaction is accounted for effortlessly.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+###Flexible Budgeting:
+Set and track your budgets seamlessly. Expensify empowers you to establish spending limits for each category, helping you stay on top of your financial goals and avoid overspending.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+###User-Friendly Interface:
+Designed with simplicity in mind, Expensify's clean and user-friendly interface makes manual expense tracking a breeze. No complicated processes – just straightforward tools to manage your financial records.
 
-### `npm test`
+###Expense History and Trends:
+Keep tabs on your spending patterns over time. Expensify provides a detailed history of your expenses and insightful trends, enabling you to make informed decisions about your financial habits.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+###No Connectivity Needed:
+Expensify is perfect for those who prefer manual control without relying on bank connections. Your financial data stays securely on your device, giving you peace of mind about your privacy.
 
-### `npm run build`
+###Printable Reports:
+Generate printable reports effortlessly. Expensify compiles your manual entries into neat, organized reports, making it easy to have a physical record of your expenses for tax purposes or personal reference.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Expensify is your straightforward companion for taking charge of your finances. It's time to simplify your expense tracking process and gain a clearer understanding of your financial habits. Start using Expensify today and make managing your expenses a hassle-free experience.
